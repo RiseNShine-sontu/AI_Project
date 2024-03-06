@@ -1,3 +1,6 @@
+Health Disease Recognition and Personalized Medicine is a groundbreaking project aimed at leveraging advanced machine learning techniques to revolutionize healthcare diagnosis and treatment. This project entails three distinct stages: model training, CNN classification, and integration with Google Gemini via Streamlit. Through the utilization of TensorFlow and Keras, three prevalent diseases—Alzheimer's, eye diseases, and skin conditions—are meticulously trained using a sequential model architecture. Subsequently, a Convolutional Neural Network (CNN) classifier is constructed to accurately classify input images into one of the three disease categories. Leveraging pre-trained models specific to each disease, the classifier delivers precise predictions. These predictions are then seamlessly integrated with Google Gemini, a cutting-edge platform for personalized health insights. By harnessing Streamlit, the results are presented in an interactive and user-friendly interface, providing comprehensive information about the identified disease, including symptoms and relevant details. This project represents a significant advancement in healthcare technology, offering tailored solutions for disease recognition and personalized medicine.
+
+
 METHODOLOGY
 
 1.Problem Definition and Goal Setting:
